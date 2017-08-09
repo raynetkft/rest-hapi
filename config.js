@@ -128,5 +128,6 @@ config.loglevel = "DEBUG";
  * @type {string}
  */
 config.docExpansion = 'none';
+config.documentationPath = '/';
 
 module.exports = config;
